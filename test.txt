@@ -1,0 +1,21 @@
+(information
+    (groups
+        IKBO-1-19,
+        IKBO-2-19,
+        IKBO-3-19,
+        IKBO-4-19,
+        IKBO-5-19,
+        IKBO-6-19,
+        IKBO-7-19,
+        IKBO-8-19,
+        IKBO-9-19,
+        IKBO-10-19
+    ),
+    (students
+        ("Ivanov I I" (age 19), (group IKBO-4-19), (ID 19I254)),
+        ("Petrov P P" (age 18), (group IKBO-5-19), (ID 19I765)),
+        ("Sidorov S S" (age 18), (group IKBO-5-19), (ID 19I653)),
+        ("John A" (age 18), (group IKBO-16-19), (ID 19I1337))
+    ),
+    (subject Configuration_management)
+)
