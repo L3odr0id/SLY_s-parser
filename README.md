@@ -1,6 +1,6 @@
 # SLY s-expressions parser
 
-There is very little information and guides on how to write parsers in SLY (https://sly.readthedocs.io/en/latest/sly.html) on the Internet, so I hope this will help you. This program parses my custom syntax S-expressions (https://en.wikipedia.org/wiki/S-expression).
+There is very little information and guides on how to write parsers with SLY (https://sly.readthedocs.io/en/latest/sly.html) on the Internet, so I hope this project will help you. This program parses my custom syntax S-expressions (https://en.wikipedia.org/wiki/S-expression).
 
 
 #### EBNF of the syntax that this parser reads:
